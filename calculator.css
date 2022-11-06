@@ -1,0 +1,41 @@
+
+html, body {
+  font-family: 'Roboto', sans-serif; 
+  
+}
+.panelbox{
+    width: 332px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.container1{
+  font-weight: bolder;
+  margin:auto;
+  align-items:center;
+}
+
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 0px ;
+  font-weight: bolder;
+  box-shadow: 1px 1px 0px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: larger;
+}
+
+.inputbox{
+  margin: 8px 0;
+}
+.inputbox input{
+  width: 300px;
+  font-size: 20px;
+  margin-left: 5px;
+    margin: 0;
+    padding: 15px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
